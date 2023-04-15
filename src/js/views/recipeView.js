@@ -2,7 +2,7 @@ import View from './View.js';
 
 //Importamos los icons desde url: dos carpetas atras(../..) y entramos a la carpeta img especificamente donde dice icons.svg
 import icons from 'url:../../img/icons.svg';
-import { Fraction } from 'fractional';
+//import { Fraction } from 'fractional';
 import fracty from 'fracty';
 
 //Aqui se le da forma a la receta, es decir se le rederiza (how looks like)
